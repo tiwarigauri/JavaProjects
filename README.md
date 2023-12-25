@@ -1,2 +1,2 @@
 # Java_Projects
-This repository contains projects developed in Java.
+This repository contains programs and projects developed in Java.
